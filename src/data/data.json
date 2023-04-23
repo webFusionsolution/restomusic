@@ -1,0 +1,190 @@
+{
+  "Header": {
+    "title": "THE MUSIC HUB",
+    "paragraph": "Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything"
+  },
+  "About": {
+    "paragraph": "RestoMusic School is the first music leaning center in Kaimpong for music hunters. Started in 2018, RestoMusic has been trusted as a brand that offers best quality of courses on various fields. Our firm works on the principle is we learn together. We empower and inspire our learners, our partners, and ourselves to develop through the power of lifelong learning.",
+    "Why": [
+      "Flexible courses for all ages",
+      "Fexible timings",
+      "Best affordable courses",
+      "Special guidance for beginners"
+    ],
+    "Why2": [
+      "Affilated Certificate",
+      "Music through notations",
+      "Online/offline courses avilable",
+      "Flexible payment Mode"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Drum Set",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Lead Guitar",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Keyboard/Piano",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Bass Guitar",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Dholak/Tabla",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "DJ/Studio",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Violin",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Vocal",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Saxophone/Flute ",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "img": "img/services/services-2.png",
+      "name": "An introductory course specially curated for your kids!",
+      "text": "We offer a special musical course for kids thats filled with creativity, personal growth, and pure enjoyment. Whether you're interested in vocal or instrumental courses, we have something for everyone."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "img": "img/services/services-1.png",
+      "name": "Preparatory Guitar Course",
+      "text": "The learners who wish to pursue guitar classes online need to know the basics of the instruments and Music. In order to cope with the demands of the Intermediate course, the applicant has to be given adequate knowledge of the working of the guitar and its techniques of picking, strumming and fretting"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "img": "img/services/services-3.png",
+      "name": "Preparatory Tabla Course",
+      "text": "Learn the fundamentals of the tabla and dholak from our professional instructors. Our preparatory tabla classes introduce the instrument, basic vocabulary of the instrument and concept of laya and tala in indian music. It gives a strong base to the beginners. this is the course for you. This course will take you through the fundamental skills necessary to build your playing capability quickly and healthily"
+    },
+    {
+      "icon": "fa fa-language",
+      "img": "img/services/services-4.png",
+      "name": "Piano Course For Beginners",
+      "text": "If you have always dreamed of playing the piano or keyboard but did not know where to start, this is the course for you. This course will take you through the fundamental skills necessary to build your playing capability quickly and healthily. In addition to the fundamentals, you will learn from exercises and examples from popular music so that you can start playing in multiple styles. You will start by focusing "
+    },
+    {
+      "icon": "fa fa-plane",
+      "img": "img/services/services-5.png",
+      "name": "Voilin Foundation Course",
+      "text": "Foundation Course in Western Violin by RestoMusic School is complete guide for beginner violinist to begin playing some engaging pieces. Spardha Western Violin Foundation Course is the complete guide for the beginner violinist, taking the student from the very beginning up to Grade 2 standard. This title is packed full of fun and engaging pieces, with clear photos throughout to illustrate each technique."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "img": "img/services/services-6.png",
+      "name": "DJ Professional Course",
+      "text": "Get extensive knowledge of  DJ and Music production. Using brands and software like the Pioneer, Serato, Traktor, Rekordbox & Fruity Loops. We provide DJ & Music production courses for people who wish to learn DJing. With expert teaching staff and student support services, you’re investing in more than just a bunch of videos with Point Blank. To quickly touch on it: as well as DJ skills, it’s one of the best places to study music production, sound engineering, the music business, singing, and also radio production."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"RestoMusic School is an excellent institution to learn how to DJ. The mentors are not only helpful throughout the course, but also after the course is completed.\"",
+      "name": "Vigyan shah"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"it’s a great music family where you get connected to many other people who are very passionate and supportive. By going to school you are kickstarting your music career - you become and learn how to be a part of the music community. This is where it all starts.\"",
+      "name": "Amit Sundar"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"RestoMusic School is the perfect platform to learn the art of Music at a professional level. Being coached by Dimapm was an absolute gift that helped me overcome my insecurities as a Musician making a comeback in his 30's. Thanks RestroMusic for all your support and help in my music journey\"",
+      "name": "Jolly Mukharjee"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"The best place for someone who is interested in pursuing music. The top notch facilities includes, latest equipments, workshops, meet & greet sessions with DJs & Producers, and so much more.\"",
+      "name": "Albert Lepcha"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"RestoMusic School provided me with a platform that allowed me to explore my musical journey without any boundaries. Their accepting and open-minded nature is very welcoming and makes learning that much easier when you feel like you belong.\"",
+      "name": "Sandeep Ghimery"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Great place to learn and understand the deepest of music, Faculties and very co-operative and helpful. They help you on every step of learning journey\"",
+      "name": "Sangeeta Deshpande"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Sunny Rai",
+      "job": "Musical Instruments Mentor"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Richard Lepcha",
+      "job": "Piano/Keyboard/Vocal Mentor"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Mukesh Sombal",
+      "job": "DJ/Vocal Mentor"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Seema Kumari",
+      "job": "Classical/Western Vocal Mentor"
+    }
+  ],
+  "Contact": {
+    "address": "Resto Music School, 2/Block C, Near Vinayaka Hotel, Hill Cart Road, Siliguri, WB 734003",
+    "phone": "+91 92894 41026",
+    "email": "info@restomusicschool.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-keyboard-o",
+      "title": "Learn Jazz Piano ",
+      "text": "Prepare to become an experienced solo jazz piano player and go deeper into advanced jazz techniques and theories."
+    },
+    {
+      "icon": "fa fa-music",
+      "title": "Learn Music Notation",
+      "text": "Find out how musicians turn the notation of a musical score into a memorable performance. Change how you listen to music."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Awesome Mentors",
+      "text": "Our mentors help the learners to develop their skills over time with practice, and most of them start as young students with training and education"
+    },
+    {
+      "icon": "fa fa-headphones",
+      "title": "Learn Advance DJ",
+      "text": "Discover the science of DJ with these exciting courses exploring the full scale of music, from teaching to culture."
+    }
+  ]
+}
